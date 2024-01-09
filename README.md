@@ -1,4 +1,4 @@
-# EMALG-AN-ENHANCED-MANDARIN-LOMBARD-GRID-CORPUS-WITH-MEANINGFUL-SENTENCES
+# EMALG
 
 A Noise Induced Corpus of Standard Chinese with meaningful sentences.
 
