@@ -1,4 +1,4 @@
-# EMALG
+# EMALG：An Enhanced Mandarin Lombard Grid Corpus with Meaningful Sentences
 
 A Noise Induced Corpus of Standard Chinese with meaningful sentences.
 
