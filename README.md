@@ -4,9 +4,10 @@ A Noise Induced Corpus of Standard Chinese with meaningful sentences.
 
 ## Download
 
- The download consist of 6000 utterances for now. The remaining 4200 utterances and transcriptions will be made public soon.
+ The download now contains all 10,200 utterances.
 
 6000 utterances Link: https://drive.google.com/file/d/1abx95GPtSChlJAyvKYVRgQ9O_fwehVnO/view?usp=sharing
+4200 utterances Link: https://drive.google.com/file/d/1UdartNo69U8yhXnOmNZF6n3p4OFBfhMI/view?usp=drive_link
 
 ## Citation
 
